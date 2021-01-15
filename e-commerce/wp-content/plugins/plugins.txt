@@ -1,0 +1,12 @@
+Mes plugins
+
+accesspress social share
+akismet
+facebook for woocommerce
+jetpack
+kliken
+livebeep
+woocommerce
+woocommerce admin
+wordpress seo
+yith woocommerce wishlist
